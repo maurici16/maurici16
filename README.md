@@ -17,9 +17,9 @@
 - 🎓 Formação em programação pelo **SENAI**
 - 🎓 Programação básica e avançada pela **Escola Barriga Verde**
 - 🎓 Atualmente estudando na **UNIFEBE – Brusque/SC**
-- 🚀 Interessado em **C#**, **.NET**, **Java** e mais
+- 🚀 Interessado em aprender **C#**, **.NET**, **Java** e outras tecnologias
 - 🎯 Extremamente adaptável e focado
-- 🫡 Sempre pronto para desafios
+- 🫡 Sempre pronto para novos desafios
 
 ---
 
@@ -31,27 +31,25 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=00ff88" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=maurici16&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=00ff88" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurici16&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Snake de Contribuições
+## 📫 Contato
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg" />
+📧 lucas.cacau1605@gmail.com<br>
+📧 lucas.maurici@unifebe.edu.br<br>
+📱 WhatsApp: (47) 99142-2128
 </p>
 
-⚠️ **IMPORTANTE:** Para a cobrinha funcionar você precisa ativar a action.
+---
 
-### 🔧 Como ativar a cobrinha
-
-1. Crie um repositório com o mesmo nome do seu usuário  
-2. Vá em **Actions**
-3. Clique em **New workflow**
-4. Crie um arquivo:
-
+<p align="center">
+💜💚 Obrigado por visitar meu perfil! 💚💜
+</p>
